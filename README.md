@@ -1,4 +1,13 @@
+![GPIO9 & GPIO10](images/ESP8266-ESP-201-GPIO9-GPIO10-schematics.png)
+
+
+
+
+
 [![Build Status](https://travis-ci.org/mertenats/Arilux_AL-LC0X.svg?branch=master)](https://travis-ci.org/mertenats/Arilux_AL-LC0X)
+
+
+
 
 # Alternative firmware for Arilux LED controllers
 This is an alternative firmware for Arilux LED controllers which uses [MQTT] instead of the default "Magic Home"/"Flux LED" protocol which has numerous reliability problems.
